@@ -13,12 +13,12 @@ showinSearchEngines: true
 # Set basic server info
 serverName: Moonrise MC
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverIP: de2.minerserver.host:25717
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
+discordInvite: https://discord.gg/RysF53sM4w
 discordServerID: 887599804790747146
 discordChannelID: 891951788998152262
 
